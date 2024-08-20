@@ -11,7 +11,7 @@
   3.Loops
   4.Functions
 **Required links**
-1. To Download Pyhton
+1. To Download Python
    https://www.python.org/downloads/
 2. To install Py-Charm Community edition(Available for free)
    https://www.jetbrains.com/pycharm/download/?section=windows
